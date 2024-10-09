@@ -14,3 +14,4 @@ function solution(numbers) {
 
 console.log(solution(input1)); // [2,3,4,5,6,7]
 console.log(solution(input2)); // [2,5,7,9,12]
+
