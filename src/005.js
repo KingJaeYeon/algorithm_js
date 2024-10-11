@@ -1,3 +1,4 @@
+
 const arr1 = [[2,3,2],[4,2,4],[3,1,4]];
 const arr2 = [[5,4,3],[2,4,1],[3,1,1]];
 
@@ -22,6 +23,4 @@ function solution(arr1,arr2) {
 
     return result
 }
-
-console.log(solution(arr1,arr2)); // [2,3,4,5,6,7]
-
+console.log(solution(arr1,arr2));
